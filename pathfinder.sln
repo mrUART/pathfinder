@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pathfinder", "pathfinder\pathfinder.csproj", "{6A75F4E8-A3FF-4B20-BBCE-FB8E58E69B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A75F4E8-A3FF-4B20-BBCE-FB8E58E69B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A75F4E8-A3FF-4B20-BBCE-FB8E58E69B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A75F4E8-A3FF-4B20-BBCE-FB8E58E69B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A75F4E8-A3FF-4B20-BBCE-FB8E58E69B79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F83F797E-73A3-4208-BBAA-33A40B4443D4}
+	EndGlobalSection
+EndGlobal
